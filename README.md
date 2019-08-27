@@ -19,13 +19,13 @@
 | 13 | [What is the difference between React and React Native?](#what-is-the-difference-between-react-and-react-native) |
 | 14 | [What is the difference between React Native and Native Script?](#what-is-the-difference-between-react-native-and-native-script) |
 | 15 | [Can we combine native codes of Android and iOS in React Native?](#can-we-combine-native-codes-of-android-and-ios-in-react-native) |
-| 16 | [What is the point of StyleSheet.create() in react native? What are the tradeoffs with this approach?](#) |
-| 17 | [Why React Native has very clear animations?](#) |
-| 18 | [Differentiate between the React component and the React element.](#) |
-| 19 | [Why React Native use Redux?](#) |
-| 20 | [Which node_modules will run in React Native? How to test for this?](#) |
-| 21 | [What is Virtual DOM and how it works in React Native?](#) |
-| 22 | [What is InteractionManager and what is its importance?](#) |
+| 16 | [What is the point of StyleSheet.create() in react native? What are the tradeoffs with this approach?](#what-is-the-point-of-stylesheet.create()-in-react-native-what-are-the-tradeoffs-with-this-approach) |
+| 17 | [Why React Native has very clear animations?](#why-react-native-has-very-clear-animations) |
+| 18 | [Differentiate between the React component and the React element.](#differentiate-between-the-react-component-and-the-react-element) |
+| 19 | [Why React Native use Redux?](#why-react-native-use-redux) |
+| 20 | [Which node_modules will run in React Native? How to test for this?](#which-node-modules-will-run-in-react-native-howto-test-for-this) |
+| 21 | [What is Virtual DOM and how it works in React Native?](#what-is-virtual-dom-and-how-it-works-in-react-native) |
+| 22 | [What is InteractionManager and what is its importance?](#what-is-interactionmanager-and-what-is-its-importance) |
 | 23 | [What is the point of the relationship between React Native and React?](#) |
 | 24 | [What are the similarities between React Native and React?](#) |
 | 25 | [Describe HOC.](#) |
