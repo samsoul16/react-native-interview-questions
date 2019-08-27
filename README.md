@@ -1,5 +1,62 @@
 # React Native Interview Questions and Answers
 
+## Table of Contents
+
+| No. | Questions                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------ |
+| 1   | [What is React Native?](#what-is-react-native)                                                               |
+| 2   | [Why use React Native?](#why-use-react-native)                                                               |
+| 3   | [What are the advantages of React Native?](#what-are-the-advantages-of-react-native)                         |
+| 4   | [List the essential components of React Native.](#list-the-essential-components-of-react-native)             |
+| 5   | [What are the cons of React Native?](#what-are-the-cones-of-react-native)                                    |
+| 6   | [How many threads run in React Native?](#how-many-threads-run-in-react-native)                               |
+| 7   | [What are props in React Native?](#what-are-props-in-react-native)                                           |
+| 8   | [What are React Native Apps?](#what-are-react-native-apps)                                                   |
+| 9   | [List the users of React Native.](#list-the-users-of-react-native)                                           |
+| 10  | [For what purpose is XHR module used in React Native?](#for-what-purpose-is-xhr-module-used-in-react-native) |
+| 11 | [Can we use Native code alongside React Native?](#can-we-use-native-code-alongside-react-native) |
+| 12 | [Are React Native built-in mobile apps like other Hybrid Apps which are slower in actual than Native ones?](#are=react-native-built-in-mobile-apps-like-other-hybrid-apps-which-are-slower-in-actual-than-native-ones?) |
+| 13 | [What is the difference between React and React Native?](#what-is-the-difference-between-react-and-react-native) |
+| 14 | [What is the difference between React Native and Native Script?](#what-is-the-difference-between-react-native-and-native-script) |
+| 15 | [Can we combine native codes of Android and iOS in React Native?](#can-we-combine-native-codes-of-android-and-ios-in-react-native) |
+| 16 | [What is the point of StyleSheet.create() in react native? What are the tradeoffs with this approach?](#) |
+| 17 | [Why React Native has very clear animations?](#) |
+| 18 | [Differentiate between the React component and the React element.](#) |
+| 19 | [Why React Native use Redux?](#) |
+| 20 | [Which node_modules will run in React Native? How to test for this?](#) |
+| 21 | [What is Virtual DOM and how it works in React Native?](#) |
+| 22 | [What is InteractionManager and what is its importance?](#) |
+| 23 | [What is the point of the relationship between React Native and React?](#) |
+| 24 | [What are the similarities between React Native and React?](#) |
+| 25 | [Describe HOC.](#) |
+| 26 | [Define Native apps.](#) |
+| 27 | [What are Hybrid Apps?](#) |
+| 28 | [What are refs in React? When to use Refs?](#) |
+| 29 | [What does a react native packager do?](#) |
+| 30 | [What is NPM in React Native?](#) |
+| 31 | [What are “props” and “state”?](#) |
+| 32 | [What is Style?](#) |
+| 33 | [How To Handle Multiple Platforms?](#) |
+| 34 | [When would you use a class component over a functional component?](#) |
+| 35 | [How React Native handle different screen size?](#) |
+| 36 | [Are all React components usable in React Native?](#) |
+| 37 | [What is the challenge with React Native?](#) |
+| 38 | [Does React Native use the same code base for Android and iOS?](#) |
+| 39 | [Thus React Native is a native Mobile App?](#) |
+| 40 | [What is Gesture Responder System?](#) |
+| 41 | [How can React Native integrate more features on the existing app?](#) |
+| 42 | [What is the storage system in React Native?](#) |
+| 43 | [How React Native load data from server?](#) |
+| 44 | [Are compile-to-JS libraries like TypeScript or ClojureScript compatible with React Native? Why or why not?](#) |
+| 45 | [What is wrong with this code for querying a native API?](#) |
+| 46 | [Imagine you have an app which is a series of lists of images (e.g. like Instagram). The app seems to crash at random. What steps can we take to investigate and mitigate this in React Native?](#) |
+| 47 | [Native apps that feel smooth often incorporate lots of little animations for state changes and transitions. How would you implement these behaviors?](#) |
+| 48 | [What Is The Difference Between Using Constructor Vs Getinitialstate In React / React Native?](#) |
+| 49 | [What Happens When You Call Setstate?](#) |
+| 50 | [What Are Keys In React And Why Are They Important?](#) |
+| 51 | [What Is The Second Argument That Can Optionally Be Passed To Setstate And What Is Its Purpose?](#) |
+
+
 1. ### What is React Native?
 
     React native is an open-source JavaScript framework designed by Facebook for native mobile applications development. It is based on a JavaScript library-React.
@@ -59,7 +116,7 @@
 
     React Native Apps are not web apps; they are the real and native mobile applications built-in a single language with the native components to run on mobile devices.
 
-9. ### List the users of React Native?
+9. ### List the users of React Native.
 
     There are thousands of React Native built-in apps. Here is the list of those apps:
 
@@ -75,7 +132,7 @@
     - Myntra
     - UberEats
 
-10. ### For what purpose XHR module used in React Native?
+10. ### For what purpose is XHR module used in React Native?
 
     XHR module implements XMLHttpRequest to post data on the server.
 
